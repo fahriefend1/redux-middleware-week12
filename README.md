@@ -22,6 +22,7 @@ Aplikasi sederhana untuk belajar **Redux Middleware** dengan implementasi **Logg
 | ⏳ Async | Mengambil data produk secara asynchronous |
 
 ## 📁 Struktur Folder
+```
 week12/
 ├── src/
 │ ├── store/
@@ -48,3 +49,4 @@ week12/
 │ └── ...
 ├── package.json
 └── README.md
+```
