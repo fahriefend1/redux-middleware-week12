@@ -7,7 +7,6 @@ Aplikasi sederhana untuk belajar **Redux Middleware** dengan implementasi **Logg
 - ✅ Redux Middleware
 - ✅ Logger Middleware
 - ✅ Thunk Middleware
-- ✅ Fetch data dari Fake Store API
 - ✅ State management dengan Redux
 - ✅ Add to Cart & Remove from Cart
 
